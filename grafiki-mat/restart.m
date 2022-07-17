@@ -1,0 +1,4 @@
+%restart
+vihodgraf
+
+maingraf2
